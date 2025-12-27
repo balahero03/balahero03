@@ -7,7 +7,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Java+%7C+DSA+%7C+Databases;Computer+Networks+%26+DevOps+Enthusiast;Learning+by+Building+Real+Systems" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=false&vCenter=true&width=750&lines=Information+Technology+Student;Java+%7C+DSA+%7C+Databases;Computer+Networks+%26+DevOps+Enthusiast;Learning+by+Building+Real+Systems" 
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
@@ -15,6 +18,7 @@
 </p>
 
 <hr/>
+
 
 
 <p align="center">
