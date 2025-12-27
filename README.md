@@ -100,21 +100,6 @@
 
 > *Trends fade. Fundamentals remain.*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=balahero03&show_icons=true&theme=dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=balahero03&layout=compact&theme=dark&hide_border=true"
-    height="165"
-  />
-</p>
----
 
 ⭐ Repositories here are built to **learn deeply**, not to chase noise.  
 Take your time. The details matter.
