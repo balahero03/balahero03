@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=false&vCenter=true&width=750&lines=Information+Technology+Student;Java+%7C+DSA+%7C+Databases;Computer+Networks+%26+DevOps+Enthusiast;Learning+by+Building+Real+Systems" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+by+Building+Real+Systems"
     alt="Typing animation"
   />
 </p>
@@ -19,15 +19,6 @@
 
 <hr/>
 
-
-
-<p align="center">
-  <em>
-    Focused on fundamentals. Building systems that last.
-  </em>
-</p>
-
-<hr/>
 
 <!-- ===================== -->
 <!--  CONNECT -->
